@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Bus_Management_System</string>
+    <string-array name="Route">
+        <item>Select</item>
+
+        <item>(1D) Maninagar Railway - Ghuma Gam</item>
+        <item>(1E) Ghuma Gam - Jaimangal</item>
+        <item>(1E) Maninagar Railway- Kashiram Textiles</item>
+        <item>(1S) Chhipa Society -  Ghuma Gam</item>
+        <item>(1S) Chhipa Society - Maninagar Railway</item>
+        <item>(1S) Jaimangal - Ghuma Gam</item>
+        <item>(1U) Ghuma Gam - Maninagar Railway</item>
+
+        <item>(2D) S.P.Ring Road - Bhadaj Circle</item>
+        <item>(2E) Bhadaj Circle - Jaimangal</item>
+        <item>(2S) Jaimangal - Bhadaj Circle</item>
+        <item>(2U) Bhadaj Circle - S.P. Ring Road</item>
+
+        <item>(3D) Maninagar Railway - RTO Circle</item>
+        <item>(3U) RTO Circle - Maninagar Railway</item>
+
+        <item>(4D) LD Engg. College - DCIS Circle</item>
+        <item>(4U) DCIS Circle - LD Engg. College</item>
+
+        <item>(5D) Hanspura Ring Road - Vasna</item>
+        <item>(5U) Vasna - Hanspura Ring Road</item>
+
+        <item>(6D) Naroda S. T. Workshop - Narol</item>
+        <item>(6U) Narol - Naroda S. T. Workshop</item>
+
+        <item>(7U) DCIS Circle - Narol</item>
+        <item>(7D) Narol - DCIS Circle</item>
+
+        <item>(8U) Iskcon Cross Road - Naroda Gam</item>
+        <item>(8D) Naroda Gam - Iskcon Cross Road</item>
+
+        <item>(9U) Gota Vasant Nagar Township - Maninagar</item>
+        <item>(9D) Maninagar - Gota Vasant Nagar Township</item>
+
+        <item>(101) RTO Circle - RTO Circle(Circular)</item>
+        <item>(201) R.T.O(Anti-Circular)</item>
+
+        <item>(11U) LD Engg Collage - S.P. Ring Road </item>
+        <item>(11D) S.P. Ring Road - LD Engg. College</item>
+
+        <item>(12U) RTO Circle - CTM Cross Road</item>
+        <item>(12U) R.T.O Circle - Rameshwar Park</item>
+        <item>(12D) CTM Cross Road - RTO Circle</item>
+        <item>(12D) Rameshwar Park - R.T.O Circle</item>
+
+        <item>(14U) Sanand Circle - Naroda Gam</item>
+        <item>(14D) Naroda Gam - Sanand Circle</item>
+
+        <item>(15D) Iskcon Cross Road - R.T.O Circle</item>
+        <item>(15U) R.T.O Circle - Iskcon Cross Road</item>
+
+        <item>(16D) Nehrunagar - Sanand Circle</item>
+        <item>(16U) Sanand Circle - Nehrunagar</item>
+
+        <item>(17D) Nehrunagar - South Bopal</item>
+        <item>(17U) South Bopal - Nehrunagar</item>
+
+        <item>(18D) Maninagar - Ahmedabad Domestic Airport</item>
+        <item>(18U) Ahmedabad Domestic Airport - Maninagar</item>
+        <item>(18S) Jaimangal - Maninagar</item>
+        <item>(18E) Maninagar - Jaimangal</item>
+
+    </string-array>
+    <string name="hello">
+        <p><u>\n1. Introduction\n\n</u></p>
+        <p>1.1 The BRTS Ahmedabad is licensed to you subject to the terms of the License Agreement.  \n</p>
+        <p><u>\n2. Accepting this License Agreement \n\n</u></p>
+        <p>2.1 In order to use this application, you must first agree to the License Agreement.
+            You may not use the application if you do not accept the License Agreement.  \n</p>
+        <p>2.2 By clicking to accept, you hereby agree to the terms of the License Agreement.  \n</p>
+        <p><u>\n3. Use of the application by You\n\n</u></p>
+        <p>3.1 You agree that you will not engage in any activity with the application, that interferes with, disrupts,
+            damages, or accesses in an unauthorized manner.  \n</p>
+        <p>3.2 All the data contained in this application, has been collected manually. You agree that you are solely
+            responsible for any consequences of your actions (including any loss or damage) if any of the information
+            provided in the application is found wrong.  \n</p>
+        <p><u>\n4. Privacy and Information\n\n</u></p>
+        <p>4.1 In order to update user location application is accessing your current location. Before any of this
+            information is collected, the SDK will notify you and seek your consent. If you withhold consent, the information will
+            not be collected.  \n</p>
+        <p>4.2 In order to continually innovate and improve the application, application may collect certain usage statistics from
+            the software including but not limited to a unique identifier, associated IP address, version number of the software,
+            and information on which devices and/or services in the application are being used and how they are being used.  \n</p>
+        <p>4.3 The data collected is examined in the aggregate to improve the application and is maintained in accordance
+            with Privacy Policy.  \n</p>
+        <p><u>\n5. DISCLAIMER OF WARRANTIES\n\n</u></p>
+        <p>5.1 YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE APPLICATION IS AT YOUR SOLE RISK AND THAT
+            THE APPLICATION IS PROVIDED AS IS AND AS AVAILABLE WITHOUT WARRANTY OF ANY KIND FROM DEVELOPER.  \n</p>
+        <p>5.2 YOUR USE OF THE APPLICATION IS AT YOUR OWN DISCRETION AND RISK AND YOU ARE SOLELY RESPONSIBLE FOR ANY
+            DAMAGE TO YOUR MOBILE PHONE OR OTHER DEVICE OR LOSS OF DATA THAT RESULTS FROM SUCH USE.  \n</p>
+        <p><u>\n6. Changes to the License Agreement\n\n</u></p>
+        <p>6.1 Developer may make changes to the License Agreement as it distributes new versions of the application. When
+            these changes are made, developer will make a new version of the License Agreement available in the application.\n</p>
+        <p>\n<u>Note:</u> This is not an official application of Janmarg.  \n</p>
+    </string>
+    <string name="hello2">
+        \n<u>About Janmarg</u>\n\n
+            \tAhmedabad Municipal Corporation has incorporated \Special Purpose Vehicle called Ahmedabad Janmarg Ltd
+        in order to run and to operate BRTS buses. Ahmedabad Janmarg Ltd is registered under Companies Act, 1956 and is
+        100% subsidiary of Ahmedabad Municipal Corporation. In order to provide faster, reliable, eco friendly and advanced
+        Public Transportation Ahmedabad Janmarg Ltd is committed to operate and run BRTS services for the citizen of Ahmedabad.\n\n
+        <u>Note</u>\n\n
+            \tThis app is not an official app of BRTS. Kindly note that your concerns regarding bus services/Janmitra
+        card related queries can not be resolved here. However you can contact on 1800 233 2030 for any inquiries.\n\n
+        <u>New Routes Update</u>\n\n
+            \tWe apologies for the inconvenience. We are working on updating our database for the new routes.
+        This is non-profitable application and we are collecting data manually so it may take some time.
+        Kindly have patience with us.\n\n
+    </string>
+</resources>

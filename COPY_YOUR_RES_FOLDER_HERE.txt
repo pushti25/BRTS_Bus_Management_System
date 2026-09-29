@@ -1,0 +1,2 @@
+Copy your existing res folder into: app/src/main/res/
+The report contained the XML layouts and strings, but your current request says you already have the res folder.
